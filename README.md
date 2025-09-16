@@ -28,10 +28,10 @@ Ce projet a pour but de développer un pipeline permettant :
 1. Cloner le dépôt :  
    ```bash
    git clone https://github.com/tonUser/wordscount-analysis.git
-   cd mon-projet
+   cd wordscount-analysis
 python -m venv venv
 source venv/bin/activate   # Linux/Mac
 
 venv\Scripts\activate      # Windows
 pip install -r requirements.txt
-python scripts/batch_processing.py
+./wordscount.sh
