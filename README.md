@@ -23,13 +23,6 @@ Ce projet a pour but de développer un pipeline permettant :
 - **Airflow** ou **scripts batch** pour l’orchestration  
 - **Git & GitHub** pour la gestion de version  
 
-## 📂 Structure du projet  
-projet-analyse-textes-religieux/
-│── data/ # Corpus de textes religieux
-│── notebooks/ # Analyses exploratoires (Jupyter Notebooks)
-│── scripts/ # Scripts de traitement et batch
-│── results/ # Résultats des analyses (graphiques, stats)
-│── README.md # Documentation du projet
 
 ## 🚀 Installation & Utilisation  
 1. Cloner le dépôt :  
